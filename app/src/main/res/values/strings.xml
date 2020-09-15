@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreference_21Apps</string>
+    <string name="save">Save</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="message">Message: </string>
+    <string name="next">Next</string>
+    <string name="enter_list">Enter To Do List</string>
+</resources>
